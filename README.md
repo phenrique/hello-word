@@ -1,2 +1,4 @@
 # hello-word
-Primeiro repositósio
+Primeiro repositório. 
+
+Seguindo o guia Hello World do GitHub.
